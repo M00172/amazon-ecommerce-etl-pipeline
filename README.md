@@ -20,3 +20,11 @@ End-to-end ETL pipeline for Amazon e-commerce data. Handled 500K rows with clean
 ## 📊 Rows: 500,000+
 
 ## 👨‍💻 Author: Bhuvan M | Data Engineer
+
+## Screenshots
+
+![etl_load](screenshors/etl_load.png)
+![etl.clean](screenshots/etl_clean.png)
+![count](screenshots/count.png)
+![join](screenshots/join.png)
+![rank](screenshots/rank.png)
