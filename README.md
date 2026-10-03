@@ -23,7 +23,7 @@ End-to-end ETL pipeline for Amazon e-commerce data. Handled 500K rows with clean
 
 ## Screenshots
 
-![etl_load](screenshor/etl_load.png)
+![etl_load](screenshot/etl_load.png)
 ![etl.clean](screenshot/etl_clean.png)
 ![count](screenshot/count.png)
 ![join](screenshot/join.png)
